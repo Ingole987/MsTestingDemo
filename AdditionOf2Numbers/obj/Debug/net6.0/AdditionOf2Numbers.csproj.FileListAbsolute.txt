@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\AdditionOf2Numbers\bin\Debug\net6.0\AdditionOf2Numbers.exe
+C:\Users\prati\source\repos\AdditionOf2Numbers\bin\Debug\net6.0\AdditionOf2Numbers.deps.json
+C:\Users\prati\source\repos\AdditionOf2Numbers\bin\Debug\net6.0\AdditionOf2Numbers.runtimeconfig.json
+C:\Users\prati\source\repos\AdditionOf2Numbers\bin\Debug\net6.0\AdditionOf2Numbers.dll
+C:\Users\prati\source\repos\AdditionOf2Numbers\bin\Debug\net6.0\ref\AdditionOf2Numbers.dll
+C:\Users\prati\source\repos\AdditionOf2Numbers\bin\Debug\net6.0\AdditionOf2Numbers.pdb
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.AssemblyInfo.cs
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.dll
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\ref\AdditionOf2Numbers.dll
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.pdb
+C:\Users\prati\source\repos\AdditionOf2Numbers\obj\Debug\net6.0\AdditionOf2Numbers.genruntimeconfig.cache
